@@ -1,5 +1,5 @@
 # 💰 AI-Powered Expense Tracker
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot](static/Screenshot.png)
 A smart full-stack web application that helps users track their daily expenses and visualize their spending habits. Integrated with a **Machine Learning model (Linear Regression)** to predict future spending trends based on historical data.
 
 ## 🚀 Features
